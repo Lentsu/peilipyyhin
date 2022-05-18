@@ -3,4 +3,4 @@ sähköpajan projektityö.
 
 ## Kuvaus
 
-Peili, joka pyyhkii itsensä höyrystä ja kosteudesta.
+Pyyhin, joka pyyhkii peilin höyrystä ja kosteudesta.

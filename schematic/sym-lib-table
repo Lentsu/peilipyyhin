@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "md20b")(type "Legacy")(uri "/home/lentsu/Downloads/md20b.lib")(options "")(descr ""))
+  (lib (name "DHT20")(type "Legacy")(uri "/home/lentsu/Downloads/DHT20.lib")(options "")(descr ""))
+)

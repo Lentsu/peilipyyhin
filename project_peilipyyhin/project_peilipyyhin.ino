@@ -15,7 +15,7 @@
   #define temp_offset 0
 #endif
 
-// Define stepper motor connections and steps per revolution:
+// Define stepper motor pins
 #define dirPin 2
 #define stepPin 3
 

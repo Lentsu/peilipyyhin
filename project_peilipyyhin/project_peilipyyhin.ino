@@ -134,7 +134,7 @@ static void step_(int sPin, int dPin, int d) {
 
 // Move the motor n steps
 static void n_step_(int sPin, int dPin, int d, int n) {
-  for (int i = 0; i < stepsPerRevolution; ++i) {
+  for (int i = 0; i < n; ++i) {
     step_(sPin, dPin, d);
   }
 }

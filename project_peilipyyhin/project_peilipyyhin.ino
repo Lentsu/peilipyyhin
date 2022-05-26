@@ -1,4 +1,3 @@
-/*Example sketch to control a stepper motor with A4988/DRV8825 stepper motor driver and Arduino without a library. More info: https://www.makerguides.com */
 #include <Wire.h>
 #include <math.h>
 #include "DHT20.h"
@@ -32,7 +31,7 @@
 #define delayAmount 1000
 #define middleDelay 400
 
-// Define the DHT20 and wire
+// Define the DHT20
 DHT20 DHT;
 
 // Data value holders
